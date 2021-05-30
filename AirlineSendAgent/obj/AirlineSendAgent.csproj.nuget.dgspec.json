@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj": {}
+    "d:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj": {}
   },
   "projects": {
-    "D:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj": {
+    "d:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
+        "projectUniqueName": "d:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
         "projectName": "AirlineSendAgent",
-        "projectPath": "D:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
+        "projectPath": "d:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\AirlineSendAgent.csproj",
         "packagesPath": "C:\\Users\\CEM\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\obj\\",
+        "outputPath": "d:\\ProjektyNET\\Webhooks\\AirlineSendAgent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

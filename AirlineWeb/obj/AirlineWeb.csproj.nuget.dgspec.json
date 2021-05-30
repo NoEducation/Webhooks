@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj": {}
+    "d:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj": {}
   },
   "projects": {
-    "D:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj": {
+    "d:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj",
+        "projectUniqueName": "d:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj",
         "projectName": "AirlineWeb",
-        "projectPath": "D:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj",
+        "projectPath": "d:\\ProjektyNET\\Webhooks\\AirlineWeb\\AirlineWeb.csproj",
         "packagesPath": "C:\\Users\\CEM\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjektyNET\\Webhooks\\AirlineWeb\\obj\\",
+        "outputPath": "d:\\ProjektyNET\\Webhooks\\AirlineWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

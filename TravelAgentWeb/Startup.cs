@@ -39,6 +39,8 @@ namespace TravelAgentWeb
                 });
             }
 
+            app.UseStaticFiles();
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
